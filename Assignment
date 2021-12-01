@@ -1,0 +1,17 @@
+package com.array;
+
+public class D1arrayAssign {
+
+	public static void main(String[] args) {
+	
+		int[] a = new int[]{5,10,15,20};
+		   
+		for(int x:a) {
+			System.out.println(x);//for each loop
+		    
+        }
+          
+   }
+
+}
+     
